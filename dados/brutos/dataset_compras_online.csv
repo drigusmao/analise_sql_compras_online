@@ -1,0 +1,1001 @@
+customer_id,product,category,price,quantity,discount_percent,total_value,purchase_date
+C54,Tênis,Esportes,332.59,4,15,1130.81,2024-09-18
+C144,Creme Hidratante,Beleza,121.03,3,5,344.94,2024-05-26
+C114,Camiseta,Roupas,413.83,5,5,1965.69,2024-10-21
+C15,Teclado,Eletrônicos,259.12,3,5,738.49,2024-06-11
+C15,Teclado,Eletrônicos,455.25,5,15,1934.81,2024-10-12
+C70,Bolsa,Acessórios,476.33,2,0,952.66,2024-06-07
+C142,Mochila,Esportes,327.54,1,10,294.79,2024-03-07
+C62,Vestido,Roupas,158.42,5,15,673.28,2024-06-16
+C113,Condicionador,Beleza,446.02,4,0,1784.08,2024-05-23
+C34,Condicionador,Beleza,489.09,4,20,1565.09,2024-01-15
+C102,Mouse,Eletrônicos,112.55,2,15,191.33,2024-07-25
+C5,Mochila,Esportes,168.7,3,10,455.49,2024-06-11
+C39,Mochila,Esportes,132.08,3,5,376.43,2024-04-04
+C114,Meia,Esportes,338.41,5,20,1353.64,2024-08-30
+C46,Mouse,Eletrônicos,111.44,2,5,211.74,2024-05-10
+C71,Perfume,Beleza,179.04,4,20,572.93,2024-09-28
+C146,Óculos,Acessórios,197.55,1,20,158.04,2024-09-24
+C51,Caixa de Som,Eletrônicos,317.41,2,10,571.34,2024-10-26
+C14,Boné,Acessórios,123.47,2,20,197.55,2024-08-29
+C84,Vestido,Roupas,43.88,4,0,175.52,2024-03-12
+C49,Camiseta,Roupas,273.84,4,20,876.29,2024-06-21
+C126,Relógio,Acessórios,57.93,4,5,220.13,2024-10-21
+C13,Bolsa,Acessórios,486.56,3,0,1459.68,2024-06-22
+C46,Mochila,Esportes,395.45,1,0,395.45,2024-03-23
+C65,Óculos,Acessórios,482.92,3,10,1303.88,2024-02-15
+C114,Shampoo,Beleza,419.29,4,5,1593.3,2024-03-05
+C61,Carregador,Eletrônicos,312.34,1,10,281.11,2024-02-29
+C119,Meia,Esportes,210.05,4,20,672.16,2024-03-02
+C122,Perfume,Beleza,454.84,5,20,1819.36,2024-01-23
+C8,Perfume,Beleza,266.39,4,5,1012.28,2024-03-16
+C19,Vestido,Roupas,266.26,2,10,479.27,2024-06-30
+C87,Óculos,Acessórios,274.18,4,5,1041.88,2024-09-06
+C10,Condicionador,Beleza,297.3,3,5,847.31,2024-05-25
+C139,Garrafa Térmica,Esportes,123.9,3,5,353.12,2024-02-24
+C124,Jaqueta,Roupas,33.17,2,10,59.71,2024-08-14
+C42,Condicionador,Beleza,203.39,2,20,325.42,2024-03-31
+C35,Mouse,Eletrônicos,77.72,2,5,147.67,2024-06-20
+C119,Bolsa,Acessórios,324.14,1,20,259.31,2024-01-20
+C147,Mouse,Eletrônicos,337.53,1,5,320.65,2024-06-26
+C74,Garrafa Térmica,Esportes,95.55,4,0,382.2,2024-10-17
+C147,Caixa de Som,Eletrônicos,342.67,3,20,822.41,2024-01-19
+C27,Camiseta,Roupas,37.39,4,0,149.56,2024-07-02
+C20,Carregador,Eletrônicos,450.24,4,20,1440.77,2024-09-08
+C59,Fone de Ouvido,Eletrônicos,349.01,5,0,1745.05,2024-08-06
+C66,Condicionador,Beleza,33.17,1,0,33.17,2024-10-24
+C94,Boné,Acessórios,465.71,3,20,1117.7,2024-07-31
+C136,Shampoo,Beleza,487.95,4,0,1951.8,2024-01-18
+C90,Mouse,Eletrônicos,280.31,5,5,1331.47,2024-10-19
+C37,Boné,Acessórios,233.51,4,20,747.23,2024-02-26
+C65,Moletom,Roupas,249.29,4,0,997.16,2024-09-10
+C56,Boné,Acessórios,247.96,4,10,892.66,2024-07-02
+C48,Mouse,Eletrônicos,256.32,3,5,730.51,2024-10-02
+C51,Teclado,Eletrônicos,252.15,3,10,680.81,2024-03-23
+C5,Boné,Acessórios,319.33,4,10,1149.59,2024-06-13
+C15,Relógio,Acessórios,423.18,5,15,1798.52,2024-07-24
+C62,Óculos,Acessórios,447.32,5,10,2012.94,2024-01-28
+C17,Boné,Acessórios,178.83,4,10,643.79,2024-10-22
+C88,Moletom,Roupas,437.24,4,0,1748.96,2024-02-12
+C87,Jaqueta,Roupas,402.58,5,20,1610.32,2024-02-08
+C59,Bolsa,Acessórios,361.22,2,5,686.32,2024-08-11
+C43,Shampoo,Beleza,113.0,5,0,565.0,2024-04-12
+C68,Camiseta Dry-fit,Esportes,359.02,5,20,1436.08,2024-06-03
+C90,Creme Hidratante,Beleza,327.7,3,20,786.48,2024-10-09
+C63,Relógio,Acessórios,288.1,5,20,1152.4,2024-06-22
+C88,Óculos,Acessórios,100.35,5,20,401.4,2024-09-27
+C145,Creme Hidratante,Beleza,164.51,4,10,592.24,2024-07-26
+C69,Pulseira,Acessórios,483.66,1,20,386.93,2024-09-14
+C130,Condicionador,Beleza,148.81,5,10,669.64,2024-08-02
+C138,Moletom,Roupas,262.38,4,5,997.04,2024-05-18
+C7,Teclado,Eletrônicos,384.88,3,5,1096.91,2024-01-25
+C6,Bolsa,Acessórios,170.95,4,0,683.8,2024-04-29
+C124,Garrafa Térmica,Esportes,124.24,2,5,236.06,2024-04-16
+C35,Garrafa Térmica,Esportes,111.64,5,10,502.38,2024-03-01
+C37,Garrafa Térmica,Esportes,400.94,3,10,1082.54,2024-04-15
+C12,Moletom,Roupas,57.98,4,0,231.92,2024-06-08
+C73,Teclado,Eletrônicos,110.65,1,15,94.05,2024-03-09
+C13,Condicionador,Beleza,97.43,5,20,389.72,2024-03-13
+C70,Teclado,Eletrônicos,132.21,3,20,317.3,2024-01-19
+C141,Carregador,Eletrônicos,436.6,3,0,1309.8,2024-09-25
+C96,Carregador,Eletrônicos,76.24,5,10,343.08,2024-09-22
+C42,Óculos,Acessórios,440.86,2,0,881.72,2024-09-24
+C127,Fone de Ouvido,Eletrônicos,351.63,5,0,1758.15,2024-07-23
+C52,Meia,Esportes,223.36,2,0,446.72,2024-04-30
+C99,Meia,Esportes,316.33,1,15,268.88,2024-06-27
+C58,Óculos,Acessórios,200.52,5,5,952.47,2024-01-10
+C72,Bolsa,Acessórios,308.36,4,5,1171.77,2024-06-17
+C141,Tênis,Esportes,193.97,1,5,184.27,2024-03-29
+C83,Moletom,Roupas,184.44,5,15,783.87,2024-06-11
+C90,Óculos,Acessórios,458.38,1,15,389.62,2024-05-25
+C53,Fone de Ouvido,Eletrônicos,361.08,2,10,649.94,2024-03-27
+C6,Condicionador,Beleza,59.01,5,10,265.55,2024-01-23
+C134,Fone de Ouvido,Eletrônicos,312.6,3,0,937.8,2024-03-27
+C135,Pulseira,Acessórios,187.0,1,20,149.6,2024-09-10
+C43,Boné,Acessórios,49.09,1,0,49.09,2024-07-25
+C131,Relógio,Acessórios,428.21,2,15,727.96,2024-03-26
+C25,Tênis,Esportes,201.43,5,15,856.08,2024-09-03
+C142,Bolsa,Acessórios,229.13,3,15,584.28,2024-08-12
+C13,Perfume,Beleza,465.21,4,10,1674.76,2024-03-31
+C77,Moletom,Roupas,81.84,4,10,294.62,2024-06-08
+C119,Mouse,Eletrônicos,204.01,2,20,326.42,2024-04-18
+C28,Perfume,Beleza,93.01,3,20,223.22,2024-07-10
+C24,Óculos,Acessórios,191.09,2,10,343.96,2024-04-16
+C137,Mochila,Esportes,169.23,5,20,676.92,2024-01-17
+C42,Óculos,Acessórios,352.17,5,5,1672.81,2024-05-25
+C110,Condicionador,Beleza,235.01,3,20,564.02,2024-09-18
+C24,Jaqueta,Roupas,105.81,2,20,169.3,2024-01-11
+C89,Fone de Ouvido,Eletrônicos,495.44,3,0,1486.32,2024-04-19
+C103,Condicionador,Beleza,223.68,1,10,201.31,2024-02-03
+C94,Mouse,Eletrônicos,373.02,1,20,298.42,2024-06-28
+C26,Boné,Acessórios,69.7,4,10,250.92,2024-09-11
+C36,Jaqueta,Roupas,395.52,2,10,711.94,2024-03-18
+C138,Jaqueta,Roupas,146.92,3,10,396.68,2024-06-25
+C122,Teclado,Eletrônicos,493.71,3,20,1184.9,2024-08-04
+C38,Tênis,Esportes,195.44,4,0,781.76,2024-08-09
+C25,Bolsa,Acessórios,37.76,5,20,151.04,2024-01-01
+C114,Fone de Ouvido,Eletrônicos,77.19,2,10,138.94,2024-02-21
+C113,Bolsa,Acessórios,333.49,3,15,850.4,2024-01-28
+C56,Fone de Ouvido,Eletrônicos,296.79,1,15,252.27,2024-10-12
+C39,Óculos,Acessórios,298.89,2,5,567.89,2024-06-01
+C109,Teclado,Eletrônicos,459.66,4,20,1470.91,2024-09-17
+C148,Camiseta,Roupas,296.88,1,10,267.19,2024-08-18
+C54,Boné,Acessórios,95.32,2,0,190.64,2024-09-10
+C95,Meia,Esportes,459.36,5,15,1952.28,2024-01-10
+C108,Boné,Acessórios,126.31,2,0,252.62,2024-08-23
+C7,Garrafa Térmica,Esportes,471.25,5,10,2120.62,2024-02-04
+C146,Perfume,Beleza,319.06,2,5,606.21,2024-02-05
+C28,Bolsa,Acessórios,214.25,4,10,771.3,2024-01-10
+C83,Bolsa,Acessórios,165.24,4,5,627.91,2024-09-29
+C139,Moletom,Roupas,55.02,1,20,44.02,2024-03-04
+C56,Mochila,Esportes,156.09,1,5,148.29,2024-10-13
+C65,Carregador,Eletrônicos,483.62,3,10,1305.77,2024-03-04
+C110,Condicionador,Beleza,363.99,5,15,1546.96,2024-10-14
+C90,Sabonete,Beleza,312.83,2,5,594.38,2024-01-22
+C32,Fone de Ouvido,Eletrônicos,387.55,5,0,1937.75,2024-07-05
+C127,Fone de Ouvido,Eletrônicos,258.93,4,0,1035.72,2024-06-27
+C115,Bolsa,Acessórios,460.59,3,20,1105.42,2024-07-10
+C46,Vestido,Roupas,370.86,1,10,333.77,2024-02-18
+C73,Óculos,Acessórios,219.01,2,10,394.22,2024-02-25
+C11,Carregador,Eletrônicos,271.04,3,5,772.46,2024-02-21
+C3,Mochila,Esportes,253.53,2,0,507.06,2024-01-17
+C119,Moletom,Roupas,191.94,4,10,690.98,2024-04-10
+C50,Mouse,Eletrônicos,141.18,5,10,635.31,2024-08-01
+C128,Bolsa,Acessórios,210.8,3,15,537.54,2024-08-09
+C133,Relógio,Acessórios,272.69,2,5,518.11,2024-02-07
+C12,Mochila,Esportes,470.6,2,15,800.02,2024-09-30
+C26,Mouse,Eletrônicos,272.04,1,0,272.04,2024-07-15
+C110,Mouse,Eletrônicos,167.65,1,10,150.89,2024-08-18
+C94,Mochila,Esportes,407.67,5,0,2038.35,2024-03-11
+C62,Meia,Esportes,80.86,1,5,76.82,2024-05-13
+C18,Condicionador,Beleza,329.17,3,15,839.38,2024-08-27
+C110,Boné,Acessórios,179.1,1,20,143.28,2024-04-29
+C95,Mochila,Esportes,60.25,5,0,301.25,2024-01-13
+C139,Shampoo,Beleza,438.88,1,0,438.88,2024-08-17
+C47,Jaqueta,Roupas,130.94,5,15,556.5,2024-02-07
+C3,Mouse,Eletrônicos,72.31,3,0,216.93,2024-09-27
+C137,Meia,Esportes,231.65,1,15,196.9,2024-10-12
+C150,Bolsa,Acessórios,334.19,1,0,334.19,2024-10-10
+C25,Bolsa,Acessórios,363.5,4,5,1381.3,2024-05-19
+C121,Jaqueta,Roupas,90.52,5,0,452.6,2024-06-14
+C38,Jaqueta,Roupas,118.85,3,0,356.55,2024-02-23
+C65,Perfume,Beleza,317.41,4,15,1079.19,2024-02-17
+C123,Mochila,Esportes,55.25,3,0,165.75,2024-08-03
+C2,Bolsa,Acessórios,119.98,4,15,407.93,2024-02-25
+C14,Relógio,Acessórios,30.85,5,15,131.11,2024-02-06
+C23,Meia,Esportes,154.91,2,20,247.86,2024-04-24
+C94,Creme Hidratante,Beleza,479.12,2,15,814.5,2024-08-20
+C7,Camiseta,Roupas,364.63,3,0,1093.89,2024-07-28
+C83,Teclado,Eletrônicos,253.45,5,5,1203.89,2024-07-19
+C75,Sabonete,Beleza,257.6,4,10,927.36,2024-08-15
+C119,Shampoo,Beleza,418.31,2,20,669.3,2024-03-31
+C33,Caixa de Som,Eletrônicos,238.85,1,5,226.91,2024-08-20
+C128,Sabonete,Beleza,388.45,2,5,738.05,2024-05-25
+C53,Condicionador,Beleza,106.07,4,15,360.64,2024-03-12
+C69,Carregador,Eletrônicos,378.62,3,0,1135.86,2024-04-16
+C119,Jaqueta,Roupas,251.0,4,20,803.2,2024-02-10
+C56,Vestido,Roupas,260.15,3,10,702.4,2024-04-28
+C136,Carregador,Eletrônicos,135.89,4,20,434.85,2024-06-18
+C119,Óculos,Acessórios,62.51,4,0,250.04,2024-10-20
+C125,Mouse,Eletrônicos,140.19,1,10,126.17,2024-10-24
+C117,Mochila,Esportes,95.5,4,0,382.0,2024-04-09
+C46,Óculos,Acessórios,492.05,5,20,1968.2,2024-07-23
+C64,Óculos,Acessórios,405.53,5,15,1723.5,2024-06-04
+C78,Jaqueta,Roupas,441.62,1,0,441.62,2024-08-12
+C3,Condicionador,Beleza,36.3,1,20,29.04,2024-07-27
+C74,Meia,Esportes,382.15,3,15,974.48,2024-02-28
+C113,Calça Jeans,Roupas,468.88,5,10,2109.96,2024-06-22
+C115,Condicionador,Beleza,403.18,1,15,342.7,2024-08-06
+C90,Tênis,Esportes,311.62,3,0,934.86,2024-06-20
+C28,Vestido,Roupas,99.91,1,15,84.92,2024-06-18
+C32,Meia,Esportes,356.75,1,15,303.24,2024-06-13
+C55,Mochila,Esportes,86.4,3,20,207.36,2024-06-28
+C111,Meia,Esportes,70.22,3,5,200.13,2024-07-22
+C55,Relógio,Acessórios,75.28,4,10,271.01,2024-07-09
+C78,Perfume,Beleza,217.95,3,0,653.85,2024-04-13
+C36,Garrafa Térmica,Esportes,242.32,5,15,1029.86,2024-08-13
+C42,Mochila,Esportes,58.97,4,0,235.88,2024-05-19
+C87,Caixa de Som,Eletrônicos,474.89,1,0,474.89,2024-01-27
+C26,Relógio,Acessórios,425.53,4,15,1446.8,2024-05-13
+C70,Vestido,Roupas,451.63,5,10,2032.34,2024-09-23
+C32,Condicionador,Beleza,187.71,5,20,750.84,2024-03-29
+C112,Mouse,Eletrônicos,449.05,3,15,1145.08,2024-06-21
+C56,Camiseta,Roupas,479.11,3,0,1437.33,2024-01-07
+C95,Caixa de Som,Eletrônicos,188.14,4,10,677.3,2024-07-25
+C33,Fone de Ouvido,Eletrônicos,169.28,3,15,431.66,2024-05-31
+C12,Camiseta,Roupas,441.89,4,20,1414.05,2024-04-30
+C71,Carregador,Eletrônicos,297.66,1,5,282.78,2024-09-24
+C45,Pulseira,Acessórios,394.29,5,15,1675.73,2024-06-06
+C80,Moletom,Roupas,385.39,2,20,616.62,2024-09-01
+C52,Mouse,Eletrônicos,467.21,4,20,1495.07,2024-09-02
+C58,Shampoo,Beleza,39.11,2,5,74.31,2024-08-22
+C27,Garrafa Térmica,Esportes,335.84,5,10,1511.28,2024-03-17
+C56,Calça Jeans,Roupas,213.14,4,15,724.68,2024-08-09
+C120,Meia,Esportes,169.1,5,15,718.67,2024-09-15
+C93,Boné,Acessórios,172.32,3,15,439.42,2024-02-25
+C57,Condicionador,Beleza,66.03,4,15,224.5,2024-01-29
+C136,Camiseta Dry-fit,Esportes,404.32,2,10,727.78,2024-07-26
+C1,Garrafa Térmica,Esportes,34.6,1,20,27.68,2024-01-15
+C32,Creme Hidratante,Beleza,320.71,1,10,288.64,2024-01-20
+C107,Meia,Esportes,402.93,4,0,1611.72,2024-01-26
+C75,Bolsa,Acessórios,95.99,4,0,383.96,2024-04-15
+C96,Camiseta,Roupas,444.44,4,5,1688.87,2024-09-27
+C64,Perfume,Beleza,389.3,3,0,1167.9,2024-08-26
+C62,Creme Hidratante,Beleza,283.8,4,20,908.16,2024-04-12
+C110,Boné,Acessórios,395.18,1,15,335.9,2024-04-08
+C19,Perfume,Beleza,156.74,2,10,282.13,2024-05-11
+C15,Bolsa,Acessórios,359.47,5,0,1797.35,2024-03-26
+C2,Camiseta Dry-fit,Esportes,482.46,2,10,868.43,2024-05-05
+C149,Sabonete,Beleza,146.51,3,15,373.6,2024-05-17
+C105,Meia,Esportes,466.33,4,0,1865.32,2024-06-03
+C37,Calça Jeans,Roupas,370.48,3,20,889.15,2024-08-30
+C131,Creme Hidratante,Beleza,481.42,1,0,481.42,2024-10-16
+C131,Mouse,Eletrônicos,489.62,1,10,440.66,2024-07-28
+C86,Creme Hidratante,Beleza,126.09,5,0,630.45,2024-08-01
+C73,Perfume,Beleza,257.28,5,15,1093.44,2024-06-29
+C109,Camiseta Dry-fit,Esportes,172.55,4,20,552.16,2024-10-27
+C25,Fone de Ouvido,Eletrônicos,239.4,4,20,766.08,2024-07-27
+C9,Teclado,Eletrônicos,452.38,2,15,769.05,2024-03-31
+C65,Vestido,Roupas,215.88,3,20,518.11,2024-06-09
+C132,Jaqueta,Roupas,351.66,5,5,1670.38,2024-09-04
+C77,Calça Jeans,Roupas,86.81,5,10,390.65,2024-04-06
+C37,Moletom,Roupas,426.56,2,5,810.46,2024-06-06
+C63,Mochila,Esportes,184.83,5,0,924.15,2024-06-01
+C59,Calça Jeans,Roupas,473.67,4,15,1610.48,2024-03-31
+C80,Mochila,Esportes,301.77,4,15,1026.02,2024-01-23
+C14,Bolsa,Acessórios,456.72,1,0,456.72,2024-02-08
+C70,Garrafa Térmica,Esportes,240.96,3,15,614.45,2024-09-08
+C119,Creme Hidratante,Beleza,472.35,5,10,2125.58,2024-09-10
+C126,Mochila,Esportes,246.57,3,15,628.75,2024-04-06
+C96,Jaqueta,Roupas,233.52,3,10,630.5,2024-04-23
+C66,Moletom,Roupas,151.79,2,20,242.86,2024-08-19
+C104,Condicionador,Beleza,118.83,1,0,118.83,2024-01-16
+C120,Tênis,Esportes,152.86,1,5,145.22,2024-02-27
+C123,Tênis,Esportes,210.27,5,5,998.78,2024-09-14
+C84,Meia,Esportes,462.19,3,0,1386.57,2024-04-23
+C36,Tênis,Esportes,332.64,1,20,266.11,2024-06-15
+C9,Teclado,Eletrônicos,240.94,2,0,481.88,2024-06-16
+C24,Perfume,Beleza,429.26,2,15,729.74,2024-08-22
+C71,Mochila,Esportes,320.14,2,15,544.24,2024-02-18
+C146,Sabonete,Beleza,210.61,2,5,400.16,2024-06-21
+C115,Teclado,Eletrônicos,86.63,4,20,277.22,2024-02-18
+C6,Boné,Acessórios,450.0,4,5,1710.0,2024-04-16
+C6,Vestido,Roupas,174.53,3,5,497.41,2024-01-11
+C55,Caixa de Som,Eletrônicos,121.04,5,5,574.94,2024-08-20
+C134,Garrafa Térmica,Esportes,485.33,5,0,2426.65,2024-09-01
+C11,Fone de Ouvido,Eletrônicos,372.5,1,20,298.0,2024-04-27
+C66,Perfume,Beleza,205.4,2,0,410.8,2024-09-06
+C137,Relógio,Acessórios,198.6,4,5,754.68,2024-05-26
+C136,Fone de Ouvido,Eletrônicos,162.0,2,0,324.0,2024-06-27
+C71,Vestido,Roupas,394.95,4,20,1263.84,2024-10-17
+C57,Fone de Ouvido,Eletrônicos,214.87,5,5,1020.63,2024-10-24
+C24,Mochila,Esportes,40.63,5,0,203.15,2024-01-05
+C138,Sabonete,Beleza,379.59,3,0,1138.77,2024-07-17
+C3,Mochila,Esportes,449.99,4,15,1529.97,2024-10-03
+C147,Camiseta,Roupas,455.07,2,0,910.14,2024-10-11
+C87,Meia,Esportes,491.71,4,0,1966.84,2024-01-16
+C64,Relógio,Acessórios,495.92,5,5,2355.62,2024-09-13
+C15,Pulseira,Acessórios,372.76,4,20,1192.83,2024-10-18
+C96,Tênis,Esportes,388.09,3,10,1047.84,2024-01-28
+C62,Moletom,Roupas,386.51,3,10,1043.58,2024-10-21
+C95,Mochila,Esportes,248.11,4,20,793.95,2024-10-13
+C42,Jaqueta,Roupas,439.14,5,0,2195.7,2024-01-25
+C67,Condicionador,Beleza,142.81,3,10,385.59,2024-04-13
+C96,Perfume,Beleza,244.39,3,15,623.19,2024-04-23
+C40,Caixa de Som,Eletrônicos,223.47,1,15,189.95,2024-05-30
+C9,Caixa de Som,Eletrônicos,52.26,4,5,198.59,2024-03-24
+C15,Camiseta,Roupas,324.97,2,15,552.45,2024-03-21
+C98,Garrafa Térmica,Esportes,195.41,3,10,527.61,2024-04-20
+C85,Bolsa,Acessórios,62.02,5,5,294.6,2024-10-23
+C126,Tênis,Esportes,331.48,4,5,1259.62,2024-06-14
+C24,Camiseta,Roupas,381.19,5,5,1810.65,2024-01-02
+C100,Mochila,Esportes,286.24,1,15,243.3,2024-04-19
+C80,Calça Jeans,Roupas,139.08,4,0,556.32,2024-04-10
+C54,Meia,Esportes,97.95,5,20,391.8,2024-09-19
+C132,Camiseta Dry-fit,Esportes,319.84,3,15,815.59,2024-02-20
+C148,Calça Jeans,Roupas,297.32,4,5,1129.82,2024-09-10
+C49,Teclado,Eletrônicos,170.8,3,0,512.4,2024-08-03
+C126,Garrafa Térmica,Esportes,410.48,5,5,1949.78,2024-07-12
+C58,Meia,Esportes,118.42,3,10,319.73,2024-05-05
+C122,Garrafa Térmica,Esportes,444.26,4,10,1599.34,2024-06-23
+C75,Calça Jeans,Roupas,341.35,1,15,290.15,2024-10-13
+C23,Bolsa,Acessórios,101.11,1,10,91.0,2024-07-09
+C100,Mochila,Esportes,169.53,5,0,847.65,2024-10-12
+C135,Fone de Ouvido,Eletrônicos,282.56,4,10,1017.22,2024-05-16
+C53,Caixa de Som,Eletrônicos,472.35,2,0,944.7,2024-10-26
+C7,Shampoo,Beleza,164.78,2,20,263.65,2024-08-22
+C4,Calça Jeans,Roupas,381.15,2,0,762.3,2024-05-26
+C59,Condicionador,Beleza,260.37,2,0,520.74,2024-02-22
+C30,Camiseta,Roupas,374.14,5,0,1870.7,2024-06-15
+C10,Shampoo,Beleza,222.24,1,5,211.13,2024-05-01
+C78,Mouse,Eletrônicos,54.5,1,10,49.05,2024-08-26
+C140,Tênis,Esportes,216.01,3,10,583.23,2024-04-06
+C138,Boné,Acessórios,252.11,1,5,239.5,2024-01-19
+C92,Fone de Ouvido,Eletrônicos,381.64,1,20,305.31,2024-03-12
+C80,Moletom,Roupas,256.11,4,0,1024.44,2024-07-04
+C58,Jaqueta,Roupas,200.32,3,0,600.96,2024-01-01
+C39,Garrafa Térmica,Esportes,437.72,4,20,1400.7,2024-08-09
+C31,Condicionador,Beleza,115.96,5,0,579.8,2024-04-19
+C32,Bolsa,Acessórios,266.64,1,10,239.98,2024-03-24
+C37,Condicionador,Beleza,168.39,4,10,606.2,2024-03-21
+C102,Perfume,Beleza,206.85,5,0,1034.25,2024-08-16
+C141,Mochila,Esportes,480.16,4,20,1536.51,2024-10-14
+C33,Pulseira,Acessórios,275.52,5,10,1239.84,2024-05-16
+C79,Mouse,Eletrônicos,57.24,1,0,57.24,2024-06-05
+C93,Sabonete,Beleza,468.27,1,15,398.03,2024-08-14
+C18,Shampoo,Beleza,233.62,2,15,397.15,2024-07-08
+C21,Camiseta,Roupas,337.0,4,20,1078.4,2024-07-02
+C29,Carregador,Eletrônicos,422.82,4,10,1522.15,2024-09-14
+C58,Meia,Esportes,197.56,5,10,889.02,2024-04-15
+C43,Óculos,Acessórios,245.81,5,20,983.24,2024-04-29
+C105,Sabonete,Beleza,439.51,2,20,703.22,2024-07-06
+C128,Garrafa Térmica,Esportes,269.73,2,15,458.54,2024-06-04
+C49,Mochila,Esportes,33.33,2,15,56.66,2024-08-22
+C126,Condicionador,Beleza,377.49,5,0,1887.45,2024-02-16
+C56,Sabonete,Beleza,332.39,2,0,664.78,2024-04-27
+C106,Mouse,Eletrônicos,390.85,4,5,1485.23,2024-05-09
+C32,Moletom,Roupas,474.96,5,20,1899.84,2024-03-13
+C125,Mouse,Eletrônicos,367.75,4,0,1471.0,2024-06-21
+C141,Creme Hidratante,Beleza,350.61,5,20,1402.44,2024-07-10
+C129,Condicionador,Beleza,300.68,4,10,1082.45,2024-10-22
+C25,Meia,Esportes,122.92,3,5,350.32,2024-01-28
+C51,Carregador,Eletrônicos,178.82,3,0,536.46,2024-02-18
+C1,Meia,Esportes,241.05,1,10,216.95,2024-02-03
+C142,Pulseira,Acessórios,40.51,5,0,202.55,2024-09-23
+C5,Calça Jeans,Roupas,420.43,4,20,1345.38,2024-08-20
+C136,Camiseta,Roupas,36.88,4,10,132.77,2024-07-04
+C71,Perfume,Beleza,322.03,5,10,1449.13,2024-07-27
+C111,Moletom,Roupas,214.18,1,10,192.76,2024-01-04
+C39,Pulseira,Acessórios,442.32,3,20,1061.57,2024-09-15
+C123,Vestido,Roupas,116.18,2,10,209.12,2024-01-20
+C12,Relógio,Acessórios,432.41,5,10,1945.85,2024-08-28
+C37,Creme Hidratante,Beleza,123.41,1,20,98.73,2024-04-16
+C12,Meia,Esportes,65.82,2,20,105.31,2024-09-30
+C113,Meia,Esportes,118.39,2,15,201.26,2024-04-05
+C38,Creme Hidratante,Beleza,397.06,3,5,1131.62,2024-02-05
+C127,Fone de Ouvido,Eletrônicos,306.5,5,15,1302.62,2024-07-22
+C40,Mouse,Eletrônicos,381.13,1,5,362.07,2024-04-24
+C79,Condicionador,Beleza,97.89,3,10,264.3,2024-04-10
+C89,Condicionador,Beleza,301.21,3,15,768.09,2024-07-21
+C129,Camiseta Dry-fit,Esportes,124.65,4,5,473.67,2024-02-04
+C30,Fone de Ouvido,Eletrônicos,32.57,4,0,130.28,2024-01-07
+C136,Camiseta Dry-fit,Esportes,416.22,5,20,1664.88,2024-06-28
+C1,Mochila,Esportes,484.43,2,5,920.42,2024-01-18
+C62,Shampoo,Beleza,209.09,2,10,376.36,2024-05-27
+C102,Calça Jeans,Roupas,93.71,1,15,79.65,2024-09-03
+C7,Calça Jeans,Roupas,129.43,3,20,310.63,2024-02-08
+C98,Bolsa,Acessórios,249.33,3,15,635.79,2024-02-26
+C130,Pulseira,Acessórios,138.51,2,20,221.62,2024-03-12
+C19,Meia,Esportes,478.63,3,20,1148.71,2024-05-26
+C130,Vestido,Roupas,346.98,4,20,1110.34,2024-05-29
+C35,Mochila,Esportes,227.21,2,5,431.7,2024-04-02
+C120,Relógio,Acessórios,289.68,5,5,1375.98,2024-06-06
+C25,Creme Hidratante,Beleza,68.93,2,5,130.97,2024-02-26
+C113,Creme Hidratante,Beleza,285.82,1,10,257.24,2024-09-11
+C2,Sabonete,Beleza,254.5,2,5,483.55,2024-09-03
+C145,Meia,Esportes,392.03,3,15,999.68,2024-01-01
+C48,Carregador,Eletrônicos,233.3,1,20,186.64,2024-07-05
+C71,Perfume,Beleza,90.49,1,5,85.97,2024-09-06
+C38,Teclado,Eletrônicos,127.97,1,20,102.38,2024-10-09
+C141,Fone de Ouvido,Eletrônicos,217.87,2,20,348.59,2024-07-23
+C86,Bolsa,Acessórios,329.98,2,0,659.96,2024-08-10
+C32,Tênis,Esportes,93.56,2,20,149.7,2024-04-23
+C50,Boné,Acessórios,319.28,1,0,319.28,2024-04-14
+C42,Shampoo,Beleza,201.89,2,0,403.78,2024-01-06
+C1,Camiseta,Roupas,303.42,1,10,273.08,2024-05-13
+C106,Calça Jeans,Roupas,442.6,2,5,840.94,2024-10-18
+C17,Tênis,Esportes,316.94,4,15,1077.6,2024-07-04
+C136,Moletom,Roupas,124.88,5,5,593.18,2024-03-29
+C36,Shampoo,Beleza,361.18,4,0,1444.72,2024-06-23
+C144,Vestido,Roupas,466.85,1,20,373.48,2024-02-18
+C74,Bolsa,Acessórios,448.44,2,0,896.88,2024-09-13
+C32,Creme Hidratante,Beleza,490.09,3,15,1249.73,2024-04-04
+C55,Óculos,Acessórios,416.96,3,5,1188.34,2024-05-15
+C66,Mochila,Esportes,379.96,2,0,759.92,2024-06-04
+C85,Mouse,Eletrônicos,156.41,5,0,782.05,2024-09-03
+C109,Fone de Ouvido,Eletrônicos,412.2,5,10,1854.9,2024-09-09
+C45,Carregador,Eletrônicos,35.27,1,20,28.22,2024-09-16
+C36,Mochila,Esportes,255.84,1,5,243.05,2024-01-16
+C28,Meia,Esportes,51.75,5,0,258.75,2024-07-10
+C95,Garrafa Térmica,Esportes,65.11,4,5,247.42,2024-03-07
+C56,Shampoo,Beleza,198.97,1,0,198.97,2024-07-27
+C94,Mochila,Esportes,308.63,4,10,1111.07,2024-01-21
+C73,Vestido,Roupas,229.98,1,20,183.98,2024-05-02
+C114,Relógio,Acessórios,172.42,2,5,327.6,2024-06-04
+C26,Fone de Ouvido,Eletrônicos,112.7,4,10,405.72,2024-04-15
+C43,Creme Hidratante,Beleza,309.45,5,20,1237.8,2024-09-16
+C68,Fone de Ouvido,Eletrônicos,56.23,4,5,213.67,2024-03-08
+C38,Jaqueta,Roupas,175.84,5,15,747.32,2024-05-04
+C2,Calça Jeans,Roupas,354.97,3,10,958.42,2024-04-26
+C101,Bolsa,Acessórios,416.13,5,15,1768.55,2024-01-15
+C102,Perfume,Beleza,35.07,5,15,149.05,2024-02-22
+C135,Tênis,Esportes,140.4,3,0,421.2,2024-10-16
+C110,Camiseta,Roupas,187.82,3,10,507.11,2024-05-05
+C124,Fone de Ouvido,Eletrônicos,85.93,2,5,163.27,2024-05-06
+C4,Mochila,Esportes,74.06,4,20,236.99,2024-04-10
+C146,Óculos,Acessórios,331.67,1,10,298.5,2024-07-12
+C23,Calça Jeans,Roupas,40.98,3,20,98.35,2024-09-03
+C121,Condicionador,Beleza,247.79,3,10,669.03,2024-02-01
+C35,Bolsa,Acessórios,425.41,4,15,1446.39,2024-08-20
+C38,Mouse,Eletrônicos,247.57,4,0,990.28,2024-04-23
+C124,Calça Jeans,Roupas,193.34,2,10,348.01,2024-04-14
+C142,Vestido,Roupas,174.87,3,5,498.38,2024-06-12
+C121,Camiseta,Roupas,161.12,2,10,290.02,2024-09-30
+C98,Shampoo,Beleza,460.17,2,10,828.31,2024-03-08
+C149,Creme Hidratante,Beleza,69.1,1,10,62.19,2024-09-15
+C16,Teclado,Eletrônicos,302.2,4,15,1027.48,2024-01-28
+C145,Tênis,Esportes,179.04,2,20,286.46,2024-10-11
+C142,Relógio,Acessórios,148.09,1,15,125.88,2024-03-06
+C90,Camiseta Dry-fit,Esportes,148.9,5,0,744.5,2024-09-18
+C20,Camiseta,Roupas,401.29,5,15,1705.48,2024-06-01
+C124,Relógio,Acessórios,152.96,5,10,688.32,2024-04-10
+C69,Camiseta,Roupas,198.47,5,15,843.5,2024-08-01
+C53,Garrafa Térmica,Esportes,282.92,1,10,254.63,2024-09-02
+C2,Pulseira,Acessórios,201.94,4,5,767.37,2024-07-19
+C13,Carregador,Eletrônicos,145.99,5,0,729.95,2024-10-20
+C127,Meia,Esportes,370.51,4,15,1259.73,2024-08-13
+C43,Meia,Esportes,338.78,5,20,1355.12,2024-01-27
+C95,Fone de Ouvido,Eletrônicos,78.71,5,10,354.19,2024-03-17
+C65,Jaqueta,Roupas,53.81,5,15,228.69,2024-08-22
+C64,Óculos,Acessórios,312.35,4,20,999.52,2024-10-13
+C57,Creme Hidratante,Beleza,215.97,3,5,615.51,2024-07-14
+C22,Bolsa,Acessórios,180.44,1,5,171.42,2024-09-03
+C54,Camiseta Dry-fit,Esportes,413.38,1,5,392.71,2024-05-11
+C108,Meia,Esportes,467.79,4,15,1590.49,2024-09-23
+C72,Óculos,Acessórios,301.83,2,10,543.29,2024-06-24
+C96,Shampoo,Beleza,225.56,3,10,609.01,2024-06-28
+C106,Tênis,Esportes,150.51,1,20,120.41,2024-02-28
+C75,Tênis,Esportes,198.43,1,20,158.74,2024-05-09
+C123,Jaqueta,Roupas,382.55,1,5,363.42,2024-03-07
+C120,Condicionador,Beleza,311.09,1,15,264.43,2024-07-21
+C132,Camiseta,Roupas,445.46,3,5,1269.56,2024-08-04
+C13,Calça Jeans,Roupas,449.96,5,15,1912.33,2024-04-26
+C58,Pulseira,Acessórios,416.99,1,10,375.29,2024-07-11
+C53,Sabonete,Beleza,330.91,2,5,628.73,2024-04-11
+C100,Vestido,Roupas,81.37,4,10,292.93,2024-06-25
+C111,Relógio,Acessórios,41.59,3,20,99.82,2024-05-20
+C146,Relógio,Acessórios,327.02,2,15,555.93,2024-10-10
+C118,Jaqueta,Roupas,294.66,5,15,1252.31,2024-04-25
+C61,Condicionador,Beleza,180.43,4,15,613.46,2024-10-25
+C22,Calça Jeans,Roupas,370.79,2,0,741.58,2024-10-17
+C110,Mochila,Esportes,265.23,5,0,1326.15,2024-06-25
+C87,Jaqueta,Roupas,323.53,3,15,825.0,2024-01-17
+C94,Óculos,Acessórios,271.59,1,0,271.59,2024-04-02
+C115,Shampoo,Beleza,378.5,4,0,1514.0,2024-04-16
+C78,Boné,Acessórios,245.26,2,20,392.42,2024-09-02
+C77,Relógio,Acessórios,304.08,2,20,486.53,2024-10-03
+C44,Relógio,Acessórios,374.71,2,15,637.01,2024-05-25
+C82,Tênis,Esportes,274.52,2,10,494.14,2024-08-29
+C17,Moletom,Roupas,164.52,1,5,156.29,2024-09-01
+C59,Shampoo,Beleza,436.06,1,15,370.65,2024-07-13
+C69,Condicionador,Beleza,281.35,4,15,956.59,2024-05-04
+C67,Vestido,Roupas,54.51,2,15,92.67,2024-07-18
+C125,Vestido,Roupas,271.9,3,20,652.56,2024-03-31
+C148,Creme Hidratante,Beleza,409.27,3,15,1043.64,2024-04-01
+C27,Bolsa,Acessórios,208.37,5,20,833.48,2024-01-20
+C36,Mochila,Esportes,489.85,2,5,930.72,2024-08-01
+C139,Relógio,Acessórios,390.1,2,10,702.18,2024-05-28
+C17,Óculos,Acessórios,292.25,4,5,1110.55,2024-02-28
+C90,Calça Jeans,Roupas,471.88,2,10,849.38,2024-10-01
+C146,Fone de Ouvido,Eletrônicos,490.27,1,5,465.76,2024-03-18
+C90,Carregador,Eletrônicos,381.95,4,5,1451.41,2024-10-02
+C64,Mochila,Esportes,52.34,5,5,248.62,2024-08-22
+C116,Jaqueta,Roupas,91.24,3,15,232.66,2024-02-14
+C97,Vestido,Roupas,98.43,3,15,251.0,2024-10-09
+C32,Tênis,Esportes,349.16,5,0,1745.8,2024-03-03
+C59,Perfume,Beleza,433.64,1,15,368.59,2024-01-03
+C109,Tênis,Esportes,206.33,3,10,557.09,2024-05-20
+C82,Fone de Ouvido,Eletrônicos,398.81,3,5,1136.61,2024-09-16
+C15,Carregador,Eletrônicos,40.71,3,20,97.7,2024-01-08
+C111,Teclado,Eletrônicos,34.26,1,0,34.26,2024-06-12
+C138,Tênis,Esportes,82.06,3,20,196.94,2024-01-28
+C131,Tênis,Esportes,386.73,5,0,1933.65,2024-08-01
+C108,Pulseira,Acessórios,395.37,1,0,395.37,2024-05-02
+C52,Vestido,Roupas,160.21,5,5,761.0,2024-04-17
+C15,Sabonete,Beleza,96.64,1,5,91.81,2024-04-09
+C84,Caixa de Som,Eletrônicos,459.37,1,5,436.4,2024-04-17
+C56,Tênis,Esportes,493.95,4,5,1877.01,2024-10-05
+C117,Vestido,Roupas,57.05,5,10,256.73,2024-02-29
+C21,Bolsa,Acessórios,40.04,3,0,120.12,2024-07-16
+C74,Pulseira,Acessórios,35.16,2,0,70.32,2024-09-10
+C14,Garrafa Térmica,Esportes,499.89,1,0,499.89,2024-08-29
+C67,Camiseta Dry-fit,Esportes,404.06,1,20,323.25,2024-03-16
+C73,Calça Jeans,Roupas,127.72,5,0,638.6,2024-10-17
+C61,Fone de Ouvido,Eletrônicos,142.44,2,0,284.88,2024-04-14
+C141,Carregador,Eletrônicos,64.22,1,15,54.59,2024-03-25
+C26,Creme Hidratante,Beleza,43.94,1,20,35.15,2024-01-30
+C97,Carregador,Eletrônicos,398.23,2,20,637.17,2024-02-02
+C55,Camiseta,Roupas,395.43,3,20,949.03,2024-10-25
+C17,Jaqueta,Roupas,473.63,5,10,2131.34,2024-06-06
+C79,Jaqueta,Roupas,62.11,5,5,295.02,2024-05-20
+C102,Fone de Ouvido,Eletrônicos,61.66,1,20,49.33,2024-07-27
+C77,Condicionador,Beleza,362.05,5,0,1810.25,2024-08-20
+C143,Calça Jeans,Roupas,163.56,2,15,278.05,2024-01-14
+C142,Camiseta,Roupas,290.77,4,20,930.46,2024-08-23
+C103,Sabonete,Beleza,386.58,4,15,1314.37,2024-02-16
+C119,Caixa de Som,Eletrônicos,50.78,3,5,144.72,2024-09-06
+C100,Garrafa Térmica,Esportes,178.63,1,20,142.9,2024-05-29
+C112,Moletom,Roupas,79.76,5,20,319.04,2024-09-06
+C45,Camiseta Dry-fit,Esportes,99.25,3,10,267.98,2024-08-10
+C66,Mochila,Esportes,73.7,3,20,176.88,2024-01-24
+C150,Vestido,Roupas,161.66,5,5,767.88,2024-09-06
+C95,Calça Jeans,Roupas,169.63,2,10,305.33,2024-10-25
+C4,Camiseta Dry-fit,Esportes,473.96,2,5,900.52,2024-04-13
+C8,Vestido,Roupas,51.69,3,5,147.32,2024-09-10
+C27,Perfume,Beleza,115.43,1,10,103.89,2024-01-28
+C93,Calça Jeans,Roupas,483.02,1,0,483.02,2024-06-20
+C6,Relógio,Acessórios,181.79,5,10,818.05,2024-10-25
+C134,Fone de Ouvido,Eletrônicos,126.36,3,5,360.13,2024-08-02
+C11,Garrafa Térmica,Esportes,327.37,4,10,1178.53,2024-04-05
+C116,Boné,Acessórios,218.23,4,20,698.34,2024-05-24
+C53,Boné,Acessórios,119.67,1,20,95.74,2024-07-15
+C91,Creme Hidratante,Beleza,409.69,1,5,389.21,2024-03-09
+C129,Caixa de Som,Eletrônicos,391.64,1,15,332.89,2024-03-04
+C63,Calça Jeans,Roupas,180.78,2,20,289.25,2024-06-21
+C44,Óculos,Acessórios,96.15,1,0,96.15,2024-09-29
+C138,Mochila,Esportes,431.33,4,20,1380.26,2024-04-27
+C137,Condicionador,Beleza,468.53,3,20,1124.47,2024-06-12
+C58,Creme Hidratante,Beleza,320.85,4,0,1283.4,2024-10-07
+C123,Vestido,Roupas,311.38,4,20,996.42,2024-09-12
+C112,Carregador,Eletrônicos,391.35,4,20,1252.32,2024-05-03
+C49,Relógio,Acessórios,85.08,4,5,323.3,2024-03-09
+C59,Condicionador,Beleza,127.35,5,0,636.75,2024-07-11
+C106,Garrafa Térmica,Esportes,168.37,4,20,538.78,2024-07-27
+C81,Perfume,Beleza,55.01,3,10,148.53,2024-04-24
+C98,Creme Hidratante,Beleza,90.71,3,5,258.52,2024-06-04
+C14,Condicionador,Beleza,217.24,3,15,553.96,2024-10-26
+C49,Sabonete,Beleza,480.59,3,15,1225.5,2024-05-06
+C78,Mochila,Esportes,250.22,1,0,250.22,2024-05-05
+C3,Caixa de Som,Eletrônicos,394.77,3,10,1065.88,2024-03-31
+C41,Condicionador,Beleza,337.16,1,10,303.44,2024-08-19
+C35,Caixa de Som,Eletrônicos,446.55,1,5,424.22,2024-04-12
+C59,Fone de Ouvido,Eletrônicos,101.54,1,0,101.54,2024-02-20
+C148,Fone de Ouvido,Eletrônicos,251.1,2,5,477.09,2024-09-23
+C50,Mouse,Eletrônicos,318.21,4,10,1145.56,2024-08-01
+C48,Vestido,Roupas,491.61,2,0,983.22,2024-01-16
+C93,Vestido,Roupas,254.54,5,15,1081.8,2024-09-06
+C55,Caixa de Som,Eletrônicos,86.07,1,15,73.16,2024-06-02
+C4,Perfume,Beleza,47.77,1,5,45.38,2024-08-24
+C58,Vestido,Roupas,381.96,4,15,1298.66,2024-05-10
+C134,Pulseira,Acessórios,483.65,1,20,386.92,2024-01-17
+C91,Boné,Acessórios,336.05,3,5,957.74,2024-09-01
+C138,Caixa de Som,Eletrônicos,497.33,4,0,1989.32,2024-06-04
+C127,Vestido,Roupas,85.32,1,10,76.79,2024-07-21
+C54,Shampoo,Beleza,180.92,5,20,723.68,2024-04-27
+C134,Calça Jeans,Roupas,238.6,4,20,763.52,2024-10-01
+C36,Creme Hidratante,Beleza,433.8,4,20,1388.16,2024-01-16
+C90,Mochila,Esportes,261.9,4,5,995.22,2024-01-13
+C132,Calça Jeans,Roupas,120.38,1,15,102.32,2024-07-12
+C64,Mochila,Esportes,97.56,1,20,78.05,2024-06-30
+C11,Camiseta,Roupas,321.36,1,10,289.22,2024-04-07
+C87,Teclado,Eletrônicos,227.16,2,5,431.6,2024-08-01
+C25,Teclado,Eletrônicos,83.42,4,0,333.68,2024-04-30
+C26,Perfume,Beleza,454.6,5,5,2159.35,2024-08-01
+C104,Perfume,Beleza,414.33,2,15,704.36,2024-06-18
+C24,Mochila,Esportes,35.41,2,0,70.82,2024-07-13
+C88,Perfume,Beleza,148.48,2,0,296.96,2024-04-27
+C115,Boné,Acessórios,248.44,1,10,223.6,2024-04-09
+C132,Fone de Ouvido,Eletrônicos,134.16,5,5,637.26,2024-01-22
+C110,Carregador,Eletrônicos,60.13,5,10,270.59,2024-03-08
+C94,Camiseta,Roupas,61.83,3,5,176.22,2024-02-22
+C114,Shampoo,Beleza,479.68,4,0,1918.72,2024-04-08
+C51,Meia,Esportes,371.61,1,5,353.03,2024-07-12
+C85,Fone de Ouvido,Eletrônicos,364.26,3,20,874.22,2024-01-29
+C32,Camiseta,Roupas,185.54,1,5,176.26,2024-05-04
+C70,Sabonete,Beleza,103.82,4,0,415.28,2024-01-30
+C121,Garrafa Térmica,Esportes,143.02,5,10,643.59,2024-08-08
+C24,Óculos,Acessórios,188.86,2,0,377.72,2024-10-04
+C11,Creme Hidratante,Beleza,165.85,1,10,149.26,2024-07-08
+C13,Carregador,Eletrônicos,221.02,2,0,442.04,2024-01-27
+C86,Óculos,Acessórios,263.02,2,10,473.44,2024-04-12
+C79,Teclado,Eletrônicos,56.83,4,15,193.22,2024-02-01
+C105,Tênis,Esportes,436.55,3,5,1244.17,2024-01-23
+C60,Sabonete,Beleza,453.71,5,20,1814.84,2024-08-24
+C46,Creme Hidratante,Beleza,415.29,5,15,1764.98,2024-10-12
+C67,Calça Jeans,Roupas,292.9,4,20,937.28,2024-05-17
+C10,Sabonete,Beleza,388.87,1,0,388.87,2024-04-07
+C12,Sabonete,Beleza,100.67,2,10,181.21,2024-03-10
+C49,Caixa de Som,Eletrônicos,311.05,5,15,1321.96,2024-06-04
+C135,Mochila,Esportes,435.8,5,10,1961.1,2024-06-03
+C91,Vestido,Roupas,233.79,3,5,666.3,2024-10-03
+C122,Moletom,Roupas,158.78,5,5,754.2,2024-07-17
+C3,Creme Hidratante,Beleza,310.1,2,0,620.2,2024-06-17
+C71,Calça Jeans,Roupas,313.23,1,5,297.57,2024-09-08
+C34,Mochila,Esportes,65.64,4,0,262.56,2024-07-22
+C41,Caixa de Som,Eletrônicos,359.39,5,5,1707.1,2024-07-19
+C4,Camiseta,Roupas,356.27,4,10,1282.57,2024-04-03
+C102,Mochila,Esportes,290.84,3,10,785.27,2024-09-29
+C50,Meia,Esportes,473.17,5,15,2010.97,2024-04-02
+C13,Mouse,Eletrônicos,155.38,3,0,466.14,2024-04-25
+C49,Tênis,Esportes,290.92,2,15,494.56,2024-05-13
+C74,Boné,Acessórios,38.93,3,0,116.79,2024-07-09
+C39,Shampoo,Beleza,478.99,1,10,431.09,2024-01-08
+C102,Perfume,Beleza,71.51,2,0,143.02,2024-10-21
+C139,Pulseira,Acessórios,397.39,5,5,1887.6,2024-05-06
+C38,Sabonete,Beleza,443.42,2,5,842.5,2024-02-24
+C60,Perfume,Beleza,85.88,3,5,244.76,2024-02-29
+C34,Creme Hidratante,Beleza,82.45,2,10,148.41,2024-09-15
+C1,Bolsa,Acessórios,279.55,1,5,265.57,2024-10-01
+C140,Carregador,Eletrônicos,480.29,2,5,912.55,2024-08-20
+C108,Camiseta,Roupas,117.87,2,10,212.17,2024-08-15
+C115,Camiseta Dry-fit,Esportes,68.89,5,15,292.78,2024-06-14
+C23,Shampoo,Beleza,347.17,1,15,295.09,2024-05-02
+C101,Moletom,Roupas,51.0,1,15,43.35,2024-01-01
+C88,Camiseta Dry-fit,Esportes,233.63,5,15,992.93,2024-07-27
+C29,Sabonete,Beleza,172.28,3,15,439.31,2024-05-21
+C12,Vestido,Roupas,482.27,2,5,916.31,2024-08-23
+C43,Fone de Ouvido,Eletrônicos,167.91,2,15,285.45,2024-02-19
+C12,Bolsa,Acessórios,386.04,3,10,1042.31,2024-08-17
+C97,Jaqueta,Roupas,346.93,4,5,1318.33,2024-01-09
+C15,Pulseira,Acessórios,401.31,2,5,762.49,2024-08-25
+C10,Caixa de Som,Eletrônicos,461.47,2,20,738.35,2024-02-24
+C92,Perfume,Beleza,350.83,3,15,894.62,2024-08-22
+C95,Pulseira,Acessórios,481.4,2,15,818.38,2024-06-06
+C113,Pulseira,Acessórios,401.91,2,20,643.06,2024-10-09
+C108,Boné,Acessórios,156.3,1,5,148.49,2024-08-07
+C104,Meia,Esportes,395.91,1,5,376.11,2024-09-21
+C36,Sabonete,Beleza,113.25,2,20,181.2,2024-03-07
+C62,Óculos,Acessórios,481.63,1,0,481.63,2024-09-11
+C68,Moletom,Roupas,439.37,2,20,702.99,2024-03-16
+C21,Relógio,Acessórios,344.04,2,10,619.27,2024-08-28
+C112,Jaqueta,Roupas,495.3,4,20,1584.96,2024-02-23
+C110,Creme Hidratante,Beleza,160.79,1,15,136.67,2024-05-21
+C112,Condicionador,Beleza,461.84,2,10,831.31,2024-04-18
+C31,Shampoo,Beleza,426.8,5,5,2027.3,2024-04-17
+C21,Mouse,Eletrônicos,223.83,3,20,537.19,2024-03-11
+C93,Jaqueta,Roupas,323.56,4,15,1100.1,2024-07-24
+C22,Perfume,Beleza,200.57,4,0,802.28,2024-07-06
+C92,Moletom,Roupas,301.14,4,10,1084.1,2024-07-29
+C13,Moletom,Roupas,126.67,4,15,430.68,2024-10-16
+C14,Bolsa,Acessórios,231.26,1,5,219.7,2024-02-08
+C124,Condicionador,Beleza,122.65,3,10,331.16,2024-08-24
+C79,Creme Hidratante,Beleza,333.52,2,0,667.04,2024-02-22
+C55,Mouse,Eletrônicos,314.19,5,5,1492.4,2024-06-09
+C46,Perfume,Beleza,183.56,4,10,660.82,2024-07-18
+C95,Relógio,Acessórios,492.03,4,5,1869.71,2024-07-06
+C78,Fone de Ouvido,Eletrônicos,411.79,4,15,1400.09,2024-07-05
+C140,Calça Jeans,Roupas,84.6,1,5,80.37,2024-09-18
+C20,Teclado,Eletrônicos,220.79,4,15,750.69,2024-07-03
+C118,Perfume,Beleza,471.46,5,10,2121.57,2024-09-24
+C35,Óculos,Acessórios,282.99,1,20,226.39,2024-01-03
+C120,Vestido,Roupas,190.3,1,20,152.24,2024-03-29
+C141,Garrafa Térmica,Esportes,108.87,4,10,391.93,2024-05-20
+C35,Fone de Ouvido,Eletrônicos,144.16,1,10,129.74,2024-07-17
+C75,Condicionador,Beleza,333.77,5,20,1335.08,2024-06-22
+C135,Bolsa,Acessórios,154.91,3,5,441.49,2024-08-17
+C2,Caixa de Som,Eletrônicos,407.64,3,0,1222.92,2024-02-12
+C92,Calça Jeans,Roupas,265.09,2,15,450.65,2024-06-05
+C18,Caixa de Som,Eletrônicos,60.7,5,10,273.15,2024-03-31
+C97,Fone de Ouvido,Eletrônicos,223.72,5,0,1118.6,2024-10-12
+C82,Garrafa Térmica,Esportes,271.97,3,0,815.91,2024-06-11
+C28,Tênis,Esportes,139.04,1,0,139.04,2024-05-18
+C89,Sabonete,Beleza,349.51,4,0,1398.04,2024-07-09
+C66,Perfume,Beleza,255.55,4,0,1022.2,2024-03-31
+C30,Mouse,Eletrônicos,75.51,1,20,60.41,2024-10-26
+C139,Camiseta,Roupas,312.75,4,10,1125.9,2024-01-05
+C63,Sabonete,Beleza,252.15,3,0,756.45,2024-06-10
+C138,Perfume,Beleza,393.28,1,10,353.95,2024-08-15
+C128,Perfume,Beleza,136.85,5,20,547.4,2024-04-27
+C109,Condicionador,Beleza,322.45,4,5,1225.31,2024-06-24
+C32,Caixa de Som,Eletrônicos,370.67,3,20,889.61,2024-08-31
+C111,Calça Jeans,Roupas,47.18,1,0,47.18,2024-10-17
+C4,Boné,Acessórios,300.21,5,20,1200.84,2024-08-14
+C97,Pulseira,Acessórios,426.9,3,20,1024.56,2024-06-16
+C11,Tênis,Esportes,355.33,5,20,1421.32,2024-05-18
+C93,Meia,Esportes,460.1,1,20,368.08,2024-09-16
+C73,Calça Jeans,Roupas,188.93,2,5,358.97,2024-06-30
+C84,Creme Hidratante,Beleza,349.11,5,15,1483.72,2024-07-15
+C43,Shampoo,Beleza,257.68,4,20,824.58,2024-05-08
+C129,Camiseta,Roupas,64.74,3,5,184.51,2024-06-10
+C20,Condicionador,Beleza,328.5,2,20,525.6,2024-03-27
+C83,Óculos,Acessórios,430.93,4,20,1378.98,2024-10-19
+C1,Creme Hidratante,Beleza,57.32,1,0,57.32,2024-06-05
+C93,Tênis,Esportes,253.57,4,20,811.42,2024-03-31
+C51,Pulseira,Acessórios,400.5,4,15,1361.7,2024-01-28
+C89,Boné,Acessórios,374.47,2,10,674.05,2024-01-15
+C82,Bolsa,Acessórios,66.73,3,20,160.15,2024-04-01
+C87,Calça Jeans,Roupas,156.29,3,0,468.87,2024-09-24
+C44,Condicionador,Beleza,178.63,5,20,714.52,2024-08-01
+C91,Relógio,Acessórios,96.34,5,15,409.45,2024-04-08
+C39,Shampoo,Beleza,171.01,4,10,615.64,2024-10-18
+C24,Garrafa Térmica,Esportes,476.29,2,10,857.32,2024-03-28
+C77,Fone de Ouvido,Eletrônicos,406.6,3,15,1036.83,2024-03-13
+C19,Mochila,Esportes,374.17,5,10,1683.77,2024-07-07
+C25,Pulseira,Acessórios,350.97,3,0,1052.91,2024-06-09
+C83,Boné,Acessórios,316.57,3,20,759.77,2024-03-08
+C6,Condicionador,Beleza,276.92,1,0,276.92,2024-03-18
+C55,Calça Jeans,Roupas,65.79,3,15,167.76,2024-10-03
+C26,Moletom,Roupas,148.27,5,20,593.08,2024-03-06
+C85,Teclado,Eletrônicos,424.95,5,5,2018.51,2024-10-25
+C136,Óculos,Acessórios,118.49,4,0,473.96,2024-02-29
+C21,Óculos,Acessórios,49.41,2,0,98.82,2024-03-01
+C42,Perfume,Beleza,191.77,2,5,364.36,2024-03-17
+C82,Creme Hidratante,Beleza,296.82,3,10,801.41,2024-10-09
+C131,Condicionador,Beleza,462.15,5,20,1848.6,2024-10-18
+C24,Vestido,Roupas,69.45,1,15,59.03,2024-03-26
+C111,Jaqueta,Roupas,198.56,2,5,377.26,2024-09-04
+C51,Perfume,Beleza,233.88,5,0,1169.4,2024-05-10
+C54,Perfume,Beleza,492.12,3,15,1254.91,2024-03-23
+C49,Óculos,Acessórios,442.46,3,10,1194.64,2024-10-16
+C39,Garrafa Térmica,Esportes,363.51,4,20,1163.23,2024-10-05
+C95,Condicionador,Beleza,223.33,3,0,669.99,2024-01-01
+C96,Carregador,Eletrônicos,217.91,2,10,392.24,2024-08-18
+C41,Tênis,Esportes,104.74,2,5,199.01,2024-09-11
+C90,Sabonete,Beleza,232.3,1,20,185.84,2024-07-28
+C95,Óculos,Acessórios,487.72,2,20,780.35,2024-03-21
+C93,Moletom,Roupas,185.72,4,20,594.3,2024-04-23
+C64,Garrafa Térmica,Esportes,232.31,1,10,209.08,2024-08-23
+C30,Jaqueta,Roupas,494.13,5,0,2470.65,2024-04-19
+C45,Relógio,Acessórios,253.41,4,10,912.28,2024-04-22
+C73,Calça Jeans,Roupas,178.06,3,10,480.76,2024-08-25
+C6,Camiseta Dry-fit,Esportes,88.61,5,15,376.59,2024-08-10
+C22,Caixa de Som,Eletrônicos,408.9,4,20,1308.48,2024-01-15
+C16,Shampoo,Beleza,282.57,4,10,1017.25,2024-01-29
+C114,Camiseta Dry-fit,Esportes,419.0,2,5,796.1,2024-08-28
+C73,Jaqueta,Roupas,355.06,1,20,284.05,2024-08-20
+C7,Mochila,Esportes,393.03,1,5,373.38,2024-02-19
+C127,Shampoo,Beleza,48.97,2,0,97.94,2024-03-10
+C8,Perfume,Beleza,66.68,5,10,300.06,2024-08-11
+C44,Teclado,Eletrônicos,484.14,2,5,919.87,2024-03-22
+C136,Fone de Ouvido,Eletrônicos,343.64,5,10,1546.38,2024-03-18
+C140,Carregador,Eletrônicos,159.77,3,10,431.38,2024-05-17
+C37,Camiseta,Roupas,416.15,3,20,998.76,2024-03-28
+C72,Boné,Acessórios,140.05,3,0,420.15,2024-07-03
+C79,Sabonete,Beleza,288.35,4,5,1095.73,2024-09-20
+C94,Teclado,Eletrônicos,111.13,3,0,333.39,2024-05-03
+C134,Tênis,Esportes,271.49,2,15,461.53,2024-05-06
+C118,Teclado,Eletrônicos,196.15,3,15,500.18,2024-07-13
+C3,Relógio,Acessórios,400.76,3,5,1142.17,2024-06-15
+C53,Condicionador,Beleza,297.85,1,5,282.96,2024-05-14
+C77,Camiseta Dry-fit,Esportes,62.53,3,5,178.21,2024-07-22
+C4,Shampoo,Beleza,220.77,2,10,397.39,2024-02-16
+C29,Fone de Ouvido,Eletrônicos,406.39,1,20,325.11,2024-03-18
+C120,Carregador,Eletrônicos,447.32,5,10,2012.94,2024-07-04
+C65,Boné,Acessórios,474.07,3,0,1422.21,2024-01-20
+C146,Calça Jeans,Roupas,258.1,2,20,412.96,2024-09-30
+C145,Teclado,Eletrônicos,284.48,4,20,910.34,2024-08-04
+C81,Perfume,Beleza,103.09,4,20,329.89,2024-06-20
+C69,Garrafa Térmica,Esportes,72.19,2,15,122.72,2024-04-18
+C74,Caixa de Som,Eletrônicos,232.58,5,0,1162.9,2024-02-25
+C90,Boné,Acessórios,207.23,4,15,704.58,2024-03-08
+C16,Creme Hidratante,Beleza,387.31,5,0,1936.55,2024-02-03
+C78,Fone de Ouvido,Eletrônicos,190.1,5,0,950.5,2024-06-10
+C76,Meia,Esportes,203.26,5,15,863.85,2024-01-09
+C124,Sabonete,Beleza,151.84,5,20,607.36,2024-07-22
+C114,Vestido,Roupas,261.37,3,10,705.7,2024-07-21
+C13,Relógio,Acessórios,318.92,3,15,813.25,2024-05-09
+C109,Calça Jeans,Roupas,153.01,5,20,612.04,2024-03-03
+C8,Garrafa Térmica,Esportes,162.47,1,20,129.98,2024-07-30
+C101,Moletom,Roupas,384.75,3,10,1038.83,2024-07-09
+C2,Calça Jeans,Roupas,163.52,2,20,261.63,2024-03-28
+C40,Camiseta,Roupas,350.96,1,0,350.96,2024-03-03
+C39,Carregador,Eletrônicos,297.1,5,5,1411.22,2024-01-15
+C18,Sabonete,Beleza,414.98,3,15,1058.2,2024-01-17
+C85,Shampoo,Beleza,122.17,3,15,311.53,2024-03-05
+C129,Perfume,Beleza,371.1,3,5,1057.64,2024-07-17
+C40,Sabonete,Beleza,476.63,1,5,452.8,2024-07-03
+C82,Bolsa,Acessórios,475.99,5,5,2260.95,2024-03-25
+C100,Moletom,Roupas,443.03,4,15,1506.3,2024-10-17
+C124,Caixa de Som,Eletrônicos,322.66,1,10,290.39,2024-02-29
+C51,Sabonete,Beleza,239.56,5,10,1078.02,2024-10-21
+C81,Condicionador,Beleza,254.78,1,20,203.82,2024-03-17
+C84,Garrafa Térmica,Esportes,388.02,3,10,1047.65,2024-08-28
+C50,Pulseira,Acessórios,113.67,5,0,568.35,2024-04-14
+C84,Bolsa,Acessórios,103.88,1,5,98.69,2024-02-10
+C13,Camiseta Dry-fit,Esportes,467.71,5,10,2104.69,2024-01-25
+C8,Creme Hidratante,Beleza,187.51,2,20,300.02,2024-06-14
+C112,Fone de Ouvido,Eletrônicos,221.79,2,5,421.4,2024-10-12
+C30,Perfume,Beleza,397.98,5,5,1890.4,2024-01-11
+C149,Teclado,Eletrônicos,91.69,5,15,389.68,2024-01-25
+C123,Boné,Acessórios,37.37,4,10,134.53,2024-01-05
+C68,Relógio,Acessórios,460.25,3,10,1242.67,2024-04-02
+C145,Mouse,Eletrônicos,362.14,2,10,651.85,2024-07-19
+C145,Mochila,Esportes,453.08,2,10,815.54,2024-02-10
+C68,Relógio,Acessórios,169.81,1,5,161.32,2024-07-22
+C42,Condicionador,Beleza,404.96,5,20,1619.84,2024-01-18
+C113,Camiseta Dry-fit,Esportes,411.16,5,20,1644.64,2024-02-10
+C18,Bolsa,Acessórios,114.93,2,5,218.37,2024-04-09
+C111,Perfume,Beleza,468.95,3,0,1406.85,2024-06-22
+C76,Creme Hidratante,Beleza,381.81,1,0,381.81,2024-05-14
+C97,Meia,Esportes,142.92,2,5,271.55,2024-02-12
+C26,Calça Jeans,Roupas,222.23,5,20,888.92,2024-06-13
+C99,Camiseta Dry-fit,Esportes,75.99,3,10,205.17,2024-01-17
+C86,Camiseta,Roupas,379.39,5,0,1896.95,2024-01-10
+C57,Garrafa Térmica,Esportes,271.0,3,15,691.05,2024-10-15
+C2,Creme Hidratante,Beleza,474.23,2,20,758.77,2024-07-15
+C42,Shampoo,Beleza,113.43,3,0,340.29,2024-02-16
+C95,Fone de Ouvido,Eletrônicos,253.95,2,20,406.32,2024-10-25
+C51,Boné,Acessórios,98.66,2,10,177.59,2024-02-25
+C75,Shampoo,Beleza,220.85,2,20,353.36,2024-08-01
+C31,Moletom,Roupas,102.37,5,10,460.67,2024-10-09
+C66,Caixa de Som,Eletrônicos,91.89,4,5,349.18,2024-07-26
+C93,Camiseta Dry-fit,Esportes,122.73,2,10,220.91,2024-05-02
+C15,Perfume,Beleza,297.17,1,10,267.45,2024-06-20
+C4,Perfume,Beleza,112.44,3,5,320.45,2024-07-29
+C109,Camiseta,Roupas,188.16,3,10,508.03,2024-08-06
+C109,Condicionador,Beleza,363.91,4,15,1237.29,2024-10-09
+C52,Jaqueta,Roupas,394.39,5,15,1676.16,2024-09-24
+C53,Perfume,Beleza,121.1,1,0,121.1,2024-02-03
+C64,Mochila,Esportes,62.79,3,20,150.7,2024-05-29
+C92,Camiseta,Roupas,307.74,5,0,1538.7,2024-07-02
+C10,Mouse,Eletrônicos,237.52,4,5,902.58,2024-10-20
+C16,Mouse,Eletrônicos,163.92,1,10,147.53,2024-09-08
+C25,Fone de Ouvido,Eletrônicos,67.68,4,15,230.11,2024-09-26
+C19,Jaqueta,Roupas,178.43,3,0,535.29,2024-03-25
+C95,Mochila,Esportes,240.36,1,0,240.36,2024-04-14
+C23,Camiseta,Roupas,262.65,1,10,236.38,2024-09-28
+C77,Shampoo,Beleza,120.4,4,5,457.52,2024-07-28
+C79,Mochila,Esportes,90.4,4,0,361.6,2024-10-15
+C52,Boné,Acessórios,347.03,5,5,1648.39,2024-05-16
+C77,Sabonete,Beleza,139.49,3,15,355.7,2024-02-08
+C147,Fone de Ouvido,Eletrônicos,365.14,4,5,1387.53,2024-02-27
+C52,Garrafa Térmica,Esportes,432.49,3,15,1102.85,2024-06-20
+C63,Pulseira,Acessórios,368.47,2,10,663.25,2024-05-14
+C35,Condicionador,Beleza,449.15,3,0,1347.45,2024-05-22
+C80,Perfume,Beleza,464.24,3,5,1323.08,2024-03-11
+C89,Mochila,Esportes,482.28,5,5,2290.83,2024-05-05
+C48,Fone de Ouvido,Eletrônicos,235.1,2,10,423.18,2024-10-08
+C31,Carregador,Eletrônicos,180.06,2,0,360.12,2024-07-09
+C78,Pulseira,Acessórios,68.84,3,20,165.22,2024-08-24
+C76,Camiseta Dry-fit,Esportes,211.99,1,15,180.19,2024-07-23
+C57,Óculos,Acessórios,198.64,5,10,893.88,2024-02-11
+C74,Caixa de Som,Eletrônicos,163.55,3,20,392.52,2024-03-19
+C118,Caixa de Som,Eletrônicos,286.06,4,20,915.39,2024-10-07
+C77,Mochila,Esportes,437.66,2,15,744.02,2024-09-19
+C31,Vestido,Roupas,227.9,2,10,410.22,2024-09-30
+C143,Tênis,Esportes,386.47,4,0,1545.88,2024-05-23
+C48,Óculos,Acessórios,127.57,1,0,127.57,2024-07-10
+C12,Perfume,Beleza,460.9,4,0,1843.6,2024-04-23
+C24,Camiseta Dry-fit,Esportes,454.75,5,0,2273.75,2024-08-10
+C35,Vestido,Roupas,181.35,4,0,725.4,2024-06-02
+C93,Bolsa,Acessórios,205.71,4,10,740.56,2024-05-26
+C39,Meia,Esportes,476.07,2,0,952.14,2024-09-20
+C23,Óculos,Acessórios,117.66,5,15,500.05,2024-05-16
+C138,Meia,Esportes,114.26,4,20,365.63,2024-10-10
+C80,Calça Jeans,Roupas,466.59,3,10,1259.79,2024-06-17
+C98,Carregador,Eletrônicos,348.5,2,10,627.3,2024-03-21
+C122,Condicionador,Beleza,422.38,4,10,1520.57,2024-08-31
+C80,Carregador,Eletrônicos,66.12,3,10,178.52,2024-02-14
+C26,Fone de Ouvido,Eletrônicos,389.99,4,0,1559.96,2024-01-03
+C53,Camiseta Dry-fit,Esportes,449.14,1,15,381.77,2024-08-13
+C148,Condicionador,Beleza,63.44,2,5,120.54,2024-10-17
+C107,Mochila,Esportes,46.8,1,5,44.46,2024-07-09
+C28,Camiseta,Roupas,124.46,4,0,497.84,2024-03-18
+C53,Camiseta Dry-fit,Esportes,314.24,2,5,597.06,2024-06-24
+C26,Óculos,Acessórios,106.72,4,0,426.88,2024-02-03
+C124,Carregador,Eletrônicos,98.41,2,15,167.3,2024-03-11
+C3,Creme Hidratante,Beleza,290.9,4,20,930.88,2024-06-29
+C48,Meia,Esportes,161.3,1,5,153.24,2024-06-19
+C96,Bolsa,Acessórios,302.73,5,10,1362.29,2024-08-15
+C123,Carregador,Eletrônicos,38.66,4,20,123.71,2024-07-13
+C35,Camiseta,Roupas,259.49,5,10,1167.71,2024-07-30
+C112,Boné,Acessórios,229.66,4,10,826.78,2024-04-01
+C54,Camiseta Dry-fit,Esportes,238.19,2,15,404.92,2024-07-03
+C139,Fone de Ouvido,Eletrônicos,440.41,2,5,836.78,2024-03-14
+C108,Tênis,Esportes,441.08,5,20,1764.32,2024-09-21
+C99,Mouse,Eletrônicos,410.86,4,20,1314.75,2024-02-08
+C89,Sabonete,Beleza,269.29,3,10,727.08,2024-09-06
+C53,Vestido,Roupas,97.3,4,10,350.28,2024-06-01
+C1,Boné,Acessórios,276.52,4,0,1106.08,2024-04-24
+C128,Creme Hidratante,Beleza,183.14,3,5,521.95,2024-09-12
+C48,Moletom,Roupas,54.96,4,15,186.86,2024-08-09
+C71,Mouse,Eletrônicos,242.95,3,5,692.41,2024-01-14
+C48,Relógio,Acessórios,204.67,1,20,163.74,2024-05-24
+C80,Creme Hidratante,Beleza,137.54,5,15,584.54,2024-08-18
+C18,Relógio,Acessórios,271.13,3,10,732.05,2024-05-06
+C27,Camiseta,Roupas,286.35,5,5,1360.16,2024-01-25
+C47,Meia,Esportes,201.55,2,5,382.94,2024-04-11
+C118,Moletom,Roupas,118.92,3,10,321.08,2024-07-20
+C124,Teclado,Eletrônicos,117.44,5,10,528.48,2024-08-20
+C69,Camiseta,Roupas,282.69,4,15,961.15,2024-01-17
+C68,Tênis,Esportes,93.96,5,10,422.82,2024-03-08
+C43,Bolsa,Acessórios,474.56,5,10,2135.52,2024-03-07
+C9,Camiseta Dry-fit,Esportes,284.62,3,15,725.78,2024-04-04
+C146,Mouse,Eletrônicos,421.44,5,20,1685.76,2024-01-18
+C48,Camiseta,Roupas,277.11,1,5,263.25,2024-02-29
+C85,Tênis,Esportes,358.46,4,0,1433.84,2024-04-27
+C70,Condicionador,Beleza,430.35,1,0,430.35,2024-04-23
+C45,Teclado,Eletrônicos,265.71,2,0,531.42,2024-01-18
+C22,Óculos,Acessórios,327.75,5,20,1311.0,2024-04-15
+C124,Mochila,Esportes,377.79,5,10,1700.06,2024-01-18
+C45,Jaqueta,Roupas,96.16,4,10,346.18,2024-05-25
+C77,Calça Jeans,Roupas,103.99,5,10,467.95,2024-07-05
+C30,Moletom,Roupas,70.97,1,15,60.32,2024-07-13
+C96,Carregador,Eletrônicos,110.26,2,5,209.49,2024-09-19
+C61,Condicionador,Beleza,383.29,4,5,1456.5,2024-03-14
+C18,Bolsa,Acessórios,280.15,2,5,532.28,2024-08-10
+C103,Mochila,Esportes,403.81,4,5,1534.48,2024-05-24
+C12,Vestido,Roupas,356.07,4,10,1281.85,2024-05-23
+C111,Camiseta Dry-fit,Esportes,407.86,4,15,1386.72,2024-04-16
+C94,Mouse,Eletrônicos,289.98,5,10,1304.91,2024-08-30
+C125,Teclado,Eletrônicos,355.35,1,15,302.05,2024-04-01
+C105,Teclado,Eletrônicos,66.61,4,5,253.12,2024-10-11
+C142,Bolsa,Acessórios,222.69,1,0,222.69,2024-07-29
+C85,Moletom,Roupas,51.7,3,0,155.1,2024-05-18
+C30,Teclado,Eletrônicos,400.87,4,5,1523.31,2024-04-10
+C145,Boné,Acessórios,64.81,2,0,129.62,2024-01-08
+C42,Sabonete,Beleza,300.37,3,0,901.11,2024-10-18
+C70,Moletom,Roupas,187.42,1,15,159.31,2024-09-27
+C42,Carregador,Eletrônicos,469.99,4,15,1597.97,2024-02-14
+C84,Perfume,Beleza,443.97,5,20,1775.88,2024-08-02
+C111,Sabonete,Beleza,369.97,4,20,1183.9,2024-06-15
+C98,Jaqueta,Roupas,406.22,5,10,1827.99,2024-01-10
+C125,Bolsa,Acessórios,179.17,5,20,716.68,2024-09-28
+C101,Bolsa,Acessórios,219.77,2,20,351.63,2024-08-02
+C64,Moletom,Roupas,196.32,4,5,746.02,2024-06-21
+C8,Creme Hidratante,Beleza,317.3,4,5,1205.74,2024-02-24
+C38,Fone de Ouvido,Eletrônicos,165.88,2,15,282.0,2024-06-24
+C66,Teclado,Eletrônicos,211.12,5,5,1002.82,2024-09-13
+C69,Sabonete,Beleza,148.99,2,20,238.38,2024-08-01
+C83,Sabonete,Beleza,352.95,2,5,670.6,2024-08-03
+C128,Mochila,Esportes,294.16,1,20,235.33,2024-05-10
+C116,Teclado,Eletrônicos,109.28,5,0,546.4,2024-06-08
+C72,Bolsa,Acessórios,342.97,3,10,926.02,2024-06-19
+C113,Teclado,Eletrônicos,315.04,3,15,803.35,2024-06-14
+C66,Condicionador,Beleza,497.02,5,5,2360.84,2024-02-24
+C135,Jaqueta,Roupas,364.86,2,10,656.75,2024-02-27
+C19,Perfume,Beleza,64.03,5,5,304.14,2024-06-17
+C131,Condicionador,Beleza,390.96,5,15,1661.58,2024-08-24
+C135,Calça Jeans,Roupas,383.27,3,15,977.34,2024-03-08
+C94,Meia,Esportes,258.22,4,0,1032.88,2024-02-19
+C29,Shampoo,Beleza,482.67,4,0,1930.68,2024-10-23
+C70,Sabonete,Beleza,231.07,3,10,623.89,2024-04-28
+C93,Teclado,Eletrônicos,46.31,1,20,37.05,2024-06-01
+C139,Pulseira,Acessórios,218.43,4,15,742.66,2024-08-12
+C133,Jaqueta,Roupas,367.78,3,15,937.84,2024-03-15
+C72,Meia,Esportes,222.01,1,15,188.71,2024-01-27
+C86,Calça Jeans,Roupas,392.22,4,5,1490.44,2024-04-05
+C42,Tênis,Esportes,340.63,5,20,1362.52,2024-05-14
+C108,Bolsa,Acessórios,135.3,2,20,216.48,2024-03-17
+C92,Moletom,Roupas,73.51,4,20,235.23,2024-09-15
+C27,Teclado,Eletrônicos,65.46,4,10,235.66,2024-09-05
+C61,Relógio,Acessórios,211.96,1,0,211.96,2024-10-08
+C135,Sabonete,Beleza,330.06,5,20,1320.24,2024-09-10
+C131,Óculos,Acessórios,350.29,5,20,1401.16,2024-08-24
+C147,Sabonete,Beleza,131.83,3,10,355.94,2024-03-29
+C148,Tênis,Esportes,173.31,3,15,441.94,2024-07-07
+C67,Teclado,Eletrônicos,289.6,2,15,492.32,2024-06-15
+C45,Meia,Esportes,294.13,3,10,794.15,2024-05-29
+C116,Mouse,Eletrônicos,156.16,1,15,132.74,2024-07-06
+C1,Sabonete,Beleza,436.71,3,20,1048.1,2024-09-06
+C63,Shampoo,Beleza,248.45,5,5,1180.14,2024-08-31
+C60,Boné,Acessórios,374.52,1,15,318.34,2024-06-29
+C69,Mouse,Eletrônicos,129.55,5,5,615.36,2024-06-21
+C34,Garrafa Térmica,Esportes,349.46,5,0,1747.3,2024-02-05
+C29,Creme Hidratante,Beleza,38.92,4,0,155.68,2024-02-24
+C61,Carregador,Eletrônicos,238.47,1,5,226.55,2024-04-22
+C109,Caixa de Som,Eletrônicos,234.63,4,20,750.82,2024-06-19
+C3,Vestido,Roupas,327.73,3,5,934.03,2024-09-21
+C103,Vestido,Roupas,244.48,3,10,660.1,2024-06-03
+C82,Perfume,Beleza,366.45,2,0,732.9,2024-05-02
+C110,Mouse,Eletrônicos,244.29,3,15,622.94,2024-06-27
+C61,Óculos,Acessórios,451.09,1,0,451.09,2024-08-10
+C88,Tênis,Esportes,181.92,5,5,864.12,2024-06-18
+C51,Condicionador,Beleza,145.91,3,10,393.96,2024-03-06
+C139,Shampoo,Beleza,55.74,3,10,150.5,2024-02-22
+C114,Moletom,Roupas,191.97,5,15,815.87,2024-03-09
+C113,Camiseta Dry-fit,Esportes,97.32,2,0,194.64,2024-06-01
+C9,Meia,Esportes,445.46,1,5,423.19,2024-06-08
+C65,Meia,Esportes,482.32,4,5,1832.82,2024-09-10
+C108,Relógio,Acessórios,211.74,1,20,169.39,2024-09-25
+C138,Teclado,Eletrônicos,183.47,2,15,311.9,2024-01-14
+C56,Óculos,Acessórios,475.51,2,5,903.47,2024-07-07
+C104,Calça Jeans,Roupas,138.37,1,15,117.61,2024-09-14
+C2,Vestido,Roupas,357.57,2,5,679.38,2024-03-01
+C116,Tênis,Esportes,114.96,2,0,229.92,2024-01-28
+C148,Camiseta Dry-fit,Esportes,110.79,3,10,299.13,2024-08-31
+C19,Óculos,Acessórios,161.87,3,20,388.49,2024-09-25
+C108,Relógio,Acessórios,398.5,5,10,1793.25,2024-10-20
+C109,Teclado,Eletrônicos,169.06,3,10,456.46,2024-03-05
+C38,Bolsa,Acessórios,176.02,4,10,633.67,2024-04-07
+C81,Fone de Ouvido,Eletrônicos,307.76,3,10,830.95,2024-04-17
+C121,Carregador,Eletrônicos,128.53,3,20,308.47,2024-10-10
+C65,Vestido,Roupas,124.76,2,0,249.52,2024-08-21
+C146,Mochila,Esportes,408.89,1,10,368.0,2024-02-27
+C96,Garrafa Térmica,Esportes,60.98,3,20,146.35,2024-05-07
+C59,Condicionador,Beleza,412.75,4,15,1403.35,2024-09-23
+C110,Sabonete,Beleza,437.78,4,20,1400.9,2024-07-04
+C125,Tênis,Esportes,140.87,1,20,112.7,2024-03-01
+C134,Carregador,Eletrônicos,347.21,5,15,1475.64,2024-01-21
+C22,Mouse,Eletrônicos,84.15,4,5,319.77,2024-09-19
+C66,Camiseta,Roupas,322.56,1,10,290.3,2024-10-21
