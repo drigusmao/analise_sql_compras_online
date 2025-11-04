@@ -1,6 +1,8 @@
-ALTER TABLE compras RENAME TO vendas; -- Alterando o nome da tabela de compras para vendas
+-- Alterando o nome da tabela de compras para vendas
+ALTER TABLE compras RENAME TO vendas; 
 
-ALTER TABLE vendas RENAME COLUMN customer_id TO id_cliente;  -- Alterando o nome das colunas da tabela vendas
+-- Alterando o nome das colunas da tabela vendas
+ALTER TABLE vendas RENAME COLUMN customer_id TO id_cliente;  
 ALTER TABLE vendas RENAME COLUMN product TO produto;
 ALTER TABLE vendas RENAME COLUMN category TO categoria;
 ALTER TABLE vendas RENAME COLUMN quantity TO quantidade;
