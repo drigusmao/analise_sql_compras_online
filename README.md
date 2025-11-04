@@ -5,8 +5,8 @@ Projeto desenvolvido para praticar SQL e análise de dados utilizando o SQLite, 
 ## Estrutura:
 - `base_dados/` → arquivo csv com os dados brutos e tratamento da tabela
 - `graficos/` → gráficos exportados do excel
-- `compras_online.db` → banco de dados criado
-- `consultas_do_negocio.sql` → scripts SQL utilizados  
+- `compras_online.db` → banco de dados
+- `consultas_do_negocio.sql` → scripts SQL utilizados para consultas do negócio
 
 ## Objetivo:
 Explorar dados de compras online para extrair insights sobre categorias, ticket médio e comportamento de consumo dos clientes.
@@ -21,5 +21,5 @@ Explorar dados de compras online para extrair insights sobre categorias, ticket 
 - Top 5 Clientes
 - Frequência de compras dos clientes
 - Ticket médio de compra  
-
 - Receita total e por categoria
+
