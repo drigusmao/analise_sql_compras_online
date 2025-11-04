@@ -7,3 +7,4 @@ ALTER TABLE vendas RENAME COLUMN quantity TO quantidade;
 ALTER TABLE vendas RENAME COLUMN discount_percent TO percentual_desconto;
 ALTER TABLE vendas RENAME COLUMN total_value TO valor_total;
 ALTER TABLE vendas RENAME COLUMN purchase_date TO data_compra;
+
